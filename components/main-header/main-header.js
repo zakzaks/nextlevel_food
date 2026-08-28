@@ -19,16 +19,16 @@ export default function MainHeader() {
 						loading="eager"
 						priority
 					/>
-					NextLevel Food
+					NextFood
 				</Link>
 
 				<nav className={classes.nav}>
 					<ul>
 						<li>
-							<Navlink href="/meals">Daftar Menu</Navlink>
+							<Navlink href="/meals"> Menu</Navlink>
 						</li>
 						<li>
-							<Navlink href="/community">Komunitas</Navlink>
+							<Navlink href="/community">Community</Navlink>
 						</li>
 					</ul>
 				</nav>
