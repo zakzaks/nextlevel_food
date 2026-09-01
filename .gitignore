@@ -43,3 +43,6 @@ next-env.d.ts
 # database
 initdb.js
 meals.db
+
+#public
+/public/images/*
